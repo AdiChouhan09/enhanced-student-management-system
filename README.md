@@ -62,3 +62,13 @@ The goal is to extend the previous system with stronger error handling and a smo
 - ├── LoadingThread.java
 - └── Main.java
 
+---
+
+## Author
+
+**Name:** Aditya Chouhan  
+**Roll No:** 2401830001  
+**Course:** B.Sc. (H) Cybersecurity  
+
+---
+
